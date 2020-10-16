@@ -1,0 +1,21 @@
+button {
+  width: 100px;
+  border: lightgray 1px solid;
+  border-radius: 25px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.time-display {
+  width: 700px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 15.5rem;
+}

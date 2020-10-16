@@ -1,0 +1,7 @@
+<div class="time-display">{{timer}}</div>
+
+<div class="buttons">
+  <app-wait-button [isActive]="isActive" [onWaitClick]="wait"></app-wait-button>
+  <app-start-button [isActive]="isActive" [onStartClick]="toggle"></app-start-button>
+  <app-reset-button [isActive]="isActive" [onResetClick]="reset"></app-reset-button>
+</div>

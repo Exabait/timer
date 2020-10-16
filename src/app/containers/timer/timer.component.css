@@ -1,0 +1,13 @@
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.time-display {
+  width: 700px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 15.5rem;
+}

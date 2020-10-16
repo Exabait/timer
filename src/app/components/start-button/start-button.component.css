@@ -1,0 +1,7 @@
+:host button {
+  width: 100px;
+  border: lightgray 1px solid;
+  border-radius: 25px;
+  margin: 10px;
+  font-size: 20px;
+}
